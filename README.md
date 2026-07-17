@@ -25,7 +25,7 @@ Below is the interactive reporting interface used by operations teams to monitor
 
 The project utilizes a clean Star Schema data model to optimize application function, maintain query performance, and ensure reliable filtering mechanics.
 This screenshot provides a direct view of how the relational schema is designed.
-![Schema Design Screenshot](./docs/Screenshot_Database_Design.png)
+![Schema Design Screenshot] (./Screenshot 2026-07-17 131300.png)
 
 
 
