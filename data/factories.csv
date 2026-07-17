@@ -1,0 +1,6 @@
+factory_id,factory_name,city,temp_bias,humidity,signal_quality
+F001,Factory Alpha,Pune,2,45,Excellent
+F002,Factory Beta,Chennai,6,85,Average
+F003,Factory Gamma,Delhi,4,55,Good
+F004,Factory Delta,Noida,3,60,Good
+F005,Factory Omega,Bengaluru,1,40,Excellent
