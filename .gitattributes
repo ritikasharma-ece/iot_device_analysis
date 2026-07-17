@@ -1,7 +1,3 @@
-* linguist-detectable=false
 *.sql linguist-detectable=true
-scripts/* linguist-vendored
-notebooks/* linguist-vendored
-*.ipynb linguist-vendored
-*.png linguist-documentation
-*.md linguist-documentation
+*.ipynb linguist-detectable=true
+*.py linguist-detectable=true
