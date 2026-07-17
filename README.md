@@ -18,7 +18,14 @@ This project is a data analysis system for tracking enterprise factory machines 
 
 Below is the interactive reporting interface used by operations teams to monitor real-time factory KPIs, technician workloads, and operational spend.
 
-![IoT Data Operations Dashboard](./dashboard.png)
+![IoT Data Operations Dashboard](./powerbi/dashboard.png)
+
+
+## Database Architecture & Schema Design
+
+The project utilizes a clean Star Schema data model to optimize application function, maintain query performance, and ensure reliable filtering mechanics.
+This screenshot provides a direct view of how the relational schema is designed.
+![Schema Design Screenshot](./docs/Screenshot_Database_Design.png)
 
 
 
